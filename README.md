@@ -16,7 +16,7 @@ C++ project that enables a PiCar robot to follow a line on the ground using its 
 Picar Pro is an educational and fun kit based on the Raspberry Pi 4 3 model B B+ , and it is also a smart electronic teaching aid for different people's learning needs. The overall structure is simple and easy to assemble. Compared with similar robot kits, Picar-Pro has added camera, robotic arm, light, more interesting possibilities for your experiment.
 
 <p align="center">
-  <img src="https://m.media-amazon.com/images/I/71uYI1BZTUS._AC_UF1000,1000_QL80_.jpg" width="400">
+  <img src="https://m.media-amazon.com/images/I/71uYI1BZTUS._AC_UF1000,1000_QL80_.jpg" width="300">
   <br/>
   <i>The PiCar Robot by Adeept</i>
 </p>
