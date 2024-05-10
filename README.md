@@ -15,4 +15,33 @@ C++ project that enables a PiCar robot to follow a line on the ground using its 
 ## What is a PiCar ?
 Picar Pro is an educational and fun kit based on the Raspberry Pi 4 3 model B B+ , and it is also a smart electronic teaching aid for different people's learning needs. The overall structure is simple and easy to assemble. Compared with similar robot kits, Picar-Pro has added camera, robotic arm, light, more interesting possibilities for your experiment.
 
-![Photography of the PiCar robot by Adeept](https://m.media-amazon.com/images/I/71uYI1BZTUS._AC_UF1000,1000_QL80_.jpg "The PiCar robot by Adeept")
+<p align="center">
+  <img src="https://m.media-amazon.com/images/I/71uYI1BZTUS._AC_UF1000,1000_QL80_.jpg" width="400">
+  <br/>
+  <i>The PiCar Robot by Adeept</i>
+</p>
+
+## What is the vision process ?
+<p align="center">
+  <img src="https://images2.imgbox.com/f4/5c/H1HkfCkQ_o.png">
+  <br/>
+  <i>Step 1 : Base image captured by the RPi Camera </i>
+</p>
+
+<p align="center">
+  <img src="https://images2.imgbox.com/41/27/AVn4vCBk_o.png">
+  <br/>
+  <i>Step 2 : Cropped image </i>
+</p>
+
+<p align="center">
+  <img src="https://images2.imgbox.com/b7/30/aOHqRe1B_o.png">
+  <br/>
+  <i>Step 3 : Grayscaled image </i>
+</p>
+
+<p align="center">
+  <img src="https://images2.imgbox.com/49/31/Hgisz6Nt_o.png">
+  <br/>
+  <i>Step 4 : Thresholded image </i>
+</p>
